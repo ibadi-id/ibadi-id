@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibadi-id
-- 👀 I’m interested in Python, Go Language and Scrapy
-- 🌱 I’m currently develop Ecommerce with Go lang
-- 💞️ I’m looking to collaborate on Ecommerce
+- 👀 I’m interested in Python, Go Language, gRPC, Microservices & Scrapy
+- 🌱 I’m currently develop Ecommerce & App with Go lang
+- 💞️ I’m looking to collaborate on Ecommerce and Startup
 - 📫 How to reach me https://www.linkedin.com/in/robbiibadi/
 
 <!---
